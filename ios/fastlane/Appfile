@@ -1,0 +1,8 @@
+app_identifier("com.fidelcompany.fastlane") # The bundle identifier of your app
+apple_id("todhm@nate.com") # Your Apple Developer Portal username
+
+itc_team_id("125382365") # App Store Connect Team ID
+team_id("YC67V9L2XK") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
